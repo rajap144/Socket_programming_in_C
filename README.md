@@ -23,3 +23,9 @@ multiple clients and serves all of them concurrently.
 **Client:** ```<executable code> <Server IP Address> <Server Port number>```
 
 **Server:** ```<executable code> <Server Port number>```
+
+![client](https://user-images.githubusercontent.com/19780871/31055169-583961b8-a6dd-11e7-960e-51978bb0be86.gif)
+
+![server](https://user-images.githubusercontent.com/19780871/31055167-56bb33b6-a6dd-11e7-91c9-f50622b90f8d.gif)
+
+
